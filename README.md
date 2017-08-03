@@ -1,4 +1,4 @@
-# Server-less eclass in AWS
+# Server-less beerjs eclass in AWS
 
 Services
 
