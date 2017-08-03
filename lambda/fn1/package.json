@@ -1,0 +1,14 @@
+{
+  "name": "fn1",
+  "version": "1.0.0",
+  "description": "the fn1 function for aws lambda",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Moisés Godoy",
+  "license": "MIT",
+  "dependencies": {
+    "uuid": "^3.1.0"
+  }
+}
